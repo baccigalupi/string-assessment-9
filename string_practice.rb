@@ -25,3 +25,4 @@ def threes_and_caps(sentence)
 end
 
 threes_and_caps("The quick brown fox jumps over the lazy dog.")
+# insane
